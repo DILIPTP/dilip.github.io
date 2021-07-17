@@ -1,0 +1,16 @@
+.item {
+    display: flex;
+    justify-content: center;
+}
+.discription p{
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+.item img{
+    width: 400px;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+}
